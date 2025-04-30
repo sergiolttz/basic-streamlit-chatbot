@@ -58,7 +58,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 ## Personalización
 
-Puedes modificar el modelo NLP o ajustar la lógica del chatbot editando el archivo `app.py`.
+Puedes modificar el modelo NLP o ajustar la lógica del chatbot editando el archivo `agente_basico.py`.
 
 ## Contribuciones
 
