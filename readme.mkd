@@ -1,0 +1,65 @@
+# Chatbot con Streamlit
+
+Este proyecto es una aplicación de chatbot desarrollada con [Streamlit](https://streamlit.io/). Permite interactuar con un modelo de procesamiento de lenguaje natural (NLP) para responder preguntas o mantener conversaciones.
+
+## Características
+
+- Interfaz de usuario simple y amigable.
+- Respuestas generadas dinámicamente utilizando un modelo NLP.
+- Fácil de ejecutar y personalizar.
+
+## Requisitos
+
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- Python 3.7 o superior
+- pip (gestor de paquetes de Python)
+
+## Instalación
+
+1. Clona este repositorio:
+
+    ```bash
+    git clone https://github.com/tu-usuario/chatbot-streamlit.git
+    cd chatbot-streamlit
+    ```
+
+2. Crea y activa un entorno virtual:
+
+    En Windows:
+    ```bash
+        python -m venv venv
+        venv\Scripts\activate
+    ```
+
+    En macOS/Linux:
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+3. Instala las dependencias:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Uso
+
+1. Ejecuta la aplicación:
+
+    ```bash
+    streamlit run app.py
+    ```
+
+2. Abre tu navegador en la dirección que aparece en la terminal (por defecto, `http://localhost:8501`).
+
+3. Interactúa con el chatbot desde la interfaz.
+
+## Personalización
+
+Puedes modificar el modelo NLP o ajustar la lógica del chatbot editando el archivo `app.py`.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas colaborar, por favor abre un issue o envía un pull request.
