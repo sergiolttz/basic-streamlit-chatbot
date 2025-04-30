@@ -49,7 +49,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 1. Ejecuta la aplicación:
 
     ```bash
-    streamlit run app.py
+    streamlit run agente_basico.py
     ```
 
 2. Abre tu navegador en la dirección que aparece en la terminal (por defecto, `http://localhost:8501`).
